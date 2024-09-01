@@ -1,10 +1,55 @@
 body {
-    background-color: #FFFFFF;
-    font-family: "Roboto", sans-serif;
-
+  background-color: #ffffff;
+  font-family: "Roboto", sans-serif;
+  color: #434455;
 }
 
-page-logo {
-    font-family: "Raleway", sans-serif;
-    size: 1.25em;
+.page-logo {
+  font-family: "Raleway", sans-serif;
+  font-size: 1.25rem;
+  line-height: 1.3125rem;
+}
+.page-menu-list a {
+  font-size: 1rem;
+  line-height: 1.5rem;
+  text-decoration: none;
+  color: #2e2f42;
+}
+.information {
+  text-decoration: none;
+}
+
+.head1 {
+  font-size: 3.5rem;
+  line-height: 3.75rem;
+}
+
+.first-section h2 {
+  font-size: 1.25rem;
+  line-height: 1.5rem;
+  color: #2e2f42;
+}
+.second-section h2 {
+  color: #2e2f42;
+  line-height: 2.5rem;
+  font-size: 2.25rem;
+}
+.second-section h3 {
+  color: #2e2f42;
+  line-height: 1.5rem;
+  font-size: 1.25rem;
+}
+.third-section h2 {
+  color: #2e2f42;
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+}
+.third-section li {
+  color: #2e2f42;
+  line-height: 1.5rem;
+  font-size: 1.25rem;
+}
+footer p {
+  font-size: 1rem;
+  line-height: 1.5rem;
 }
