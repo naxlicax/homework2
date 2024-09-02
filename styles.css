@@ -8,40 +8,65 @@ body {
   font-family: "Raleway", sans-serif;
   font-size: 1.25rem;
   line-height: 1.3125rem;
+  font-weight: 700;
 }
 .page-menu-list a {
   font-size: 1rem;
   line-height: 1.5rem;
   text-decoration: none;
   color: #2e2f42;
+  font-weight: 500;
 }
 .page-menu-list a:hover {
   color:green;
 }
 .information {
   text-decoration: none;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.5rem;
 }
 
 .head1 {
   font-size: 3.5rem;
   line-height: 3.75rem;
+  font-weight: 700;
+}
+.head1 button {
+  cursor: pointer;
 }
 
+
+.first-section li {
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  font-weight: 400;
+}
 .first-section h2 {
   font-size: 1.25rem;
   line-height: 1.5rem;
   color: #2e2f42;
+  font-weight: 500;
 }
 .second-section h2 {
   color: #2e2f42;
   line-height: 2.5rem;
   font-size: 2.25rem;
+  font-weight: 700;
+}
+.second-section li {
+  line-height: 1.5rem;
+  font-size: 1rem;
+  font-weight: 400;
 }
 .second-section h3 {
   color: #2e2f42;
   line-height: 1.5rem;
   font-size: 1.25rem;
+  font-weight: 500;
 }
+
 .second-section h3:hover {
   color:green;
 }
@@ -49,13 +74,16 @@ body {
   color: #2e2f42;
   font-size: 2.25rem;
   line-height: 2.5rem;
+  font-weight: 700;
 }
 .third-section li {
   color: #2e2f42;
   line-height: 1.5rem;
   font-size: 1.25rem;
+  font-weight:500;
 }
 footer p {
   font-size: 1rem;
   line-height: 1.5rem;
+  font-weight:400;
 }
