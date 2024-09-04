@@ -10,6 +10,18 @@ body {
   line-height: 1.3125rem;
   font-weight: 700;
 }
+.page-logo-1 {
+  color: #4d5ae5;
+}
+.page-logo-2 {
+  color: #2e2f42;
+}
+
+div {
+  background-color: #2e2f42;
+  width: 90rem;
+  height: 37.5rem;
+}
 .page-menu-list a {
   font-size: 1rem;
   line-height: 1.5rem;
@@ -28,6 +40,7 @@ body {
 }
 
 .head1 {
+  color: #ffffff;
   font-size: 3.5rem;
   line-height: 3.75rem;
   font-weight: 700;
