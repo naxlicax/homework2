@@ -9,6 +9,8 @@ body {
   font-size: 1.25rem;
   line-height: 1.3125rem;
   font-weight: 700;
+  text-transform: uppercase;
+  cursor:pointer;
 }
 .page-logo-1 {
   color: #4d5ae5;
@@ -16,11 +18,13 @@ body {
 .page-logo-2 {
   color: #2e2f42;
 }
+.page-logo-last {
+  color:#ffffff;
+}
 
 div {
   background-color: #2e2f42;
-  width: 90rem;
-  height: 37.5rem;
+
 }
 .page-menu-list a {
   font-size: 1rem;
@@ -47,6 +51,15 @@ div {
 }
 .button {
   cursor: pointer;
+  background-color:#4d5ae5;
+  font-weight: 500;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  letter-spacing: 0.04rem;
+  color:#ffffff;
+}
+.service {
+  background-color: #2e2f42;
 }
 
 .first-section li {
@@ -98,4 +111,5 @@ footer p {
   font-size: 1rem;
   line-height: 1.5rem;
   font-weight: 400;
+  color:#ffffff;
 }
