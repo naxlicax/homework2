@@ -41,7 +41,9 @@ div {
   font-size: 1rem;
   line-height: 1.5rem;
 }
-
+.information:hover {
+  color:green;
+}
 .head1 {
   color: #ffffff;
   font-size: 3.5rem;
@@ -59,6 +61,9 @@ div {
   line-height: 1.5rem;
   letter-spacing: 0.04rem;
   color: #ffffff;
+}
+.button:hover {
+  color:green
 }
 .service {
   background-color: #2e2f42;
