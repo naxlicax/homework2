@@ -33,7 +33,7 @@ div {
   font-weight: 500;
 }
 .page-menu-list a:hover {
-  color: #34d3ad;
+  color: #404BBF;
 }
 .information {
   text-decoration: none;
@@ -42,7 +42,7 @@ div {
   line-height: 1.5rem;
 }
 .information:hover {
-  color:#34d3ad;
+  color:#404BBF;
 }
 .head1 {
   color: #ffffff;
@@ -63,7 +63,7 @@ div {
   color: #ffffff;
 }
 .button:hover {
-  color:#ffffff;
+  color:#404BBF;
 }
 .service {
   background-color: #2e2f42;
@@ -100,7 +100,7 @@ div {
 }
 
 .second-section h3:hover {
-  color: #34d3ad;
+  color: #404BBF;
 }
 .third-section h2 {
   color: #2e2f42;
